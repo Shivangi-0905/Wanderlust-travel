@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests defined\" && exit 0"
+    "test": "node app.js"
   },
   "keywords": [],
   "author": "",
